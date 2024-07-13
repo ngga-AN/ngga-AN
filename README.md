@@ -8,8 +8,7 @@
 - 🔭 I’m currently working on Quantitative in Finance
 - ⚡ Fun fact: Lazy
 
-### My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngga-AN&show_icons=true)
+
 
 ### My Top Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
