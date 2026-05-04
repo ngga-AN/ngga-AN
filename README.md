@@ -5,7 +5,7 @@
 -->
 
 ### About Me
-- 🔭 I’m currently working on Quantitative in Finance
+- 🔭 I’m currently working on Quantitative Finance
 - ⚡ Fun fact: Lazy
 
 
